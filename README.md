@@ -1,0 +1,6 @@
+# Visual Argument
+# Alexander Ocampo
+Spring 2022
+Project guidelines for Ben Miller's class in [Composing Digital Media](https://benmiller314.github.io/cdm2022spring) at Pitt
+
+My visual argument will be convincing the audience of one simple idea: green onions make any meal better. Plainly, it's just true. However, aside from being a hill I would die on, I'm interested in using this project to explore how persuasion translates when there is nothing pressing within the contents; how do I convince people to care about a concept when the concept itself is not particularly important? My primary goal is to get viewers to remember my composition, and hopefully by remembering it will seep into their everyday consciousness. I have a few ideas for my design. One of the more notable ideas is replicating an ice cream advertisement, but instead of sprinkling on sprinkles they're green onion slivers. Another idea is to take that concept of putting green onions on several unconventional foods (and maybe not-foods?) with text essentially saying they're good for any time. Lastly, I'm playing with the shape of the whole green onion and might try to transform it into some other object like a fishing rod with text saying how green onions = good eating. Below are sketches of the first and last idea.
